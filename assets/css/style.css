@@ -306,14 +306,14 @@ footer{
     letter-spacing: 4px;
 
     width: 150px;
-    height: 100px;
+    height: 130px;
     padding-top: 20px;
     padding-left: 5px;
 
     background-color: rgba(241, 109, 107, .7);
 
     bottom: 65px;
-    right: 75px;
+    right: 50px;
 
     position: absolute;
 }
